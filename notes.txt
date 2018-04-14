@@ -1,0 +1,33 @@
+Study: JS / C++ Addons
+https://nodejs.org/dist/latest-v8.x/docs/api/addons.html
+
+[Enyo Framework 1.0]
+git clone https://github.com/enyojs/enyo-1.0.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/frameworks/enyo-1.0.bb
+
+[app-services]
+git clone https://github.com/openwebos/app-services.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/app-services/app-services.bb
+
+[webappmanager]
+git clone https://github.com/openwebos/webappmanager.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/webappmanager/webappmanager.bb
+
+[core-apps]
+git clone https://github.com/openwebos/core-apps.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/core-apps/core-apps.bb
+
+[nodejs-module-webos-dynaload]
+git clone https://github.com/openwebos/nodejs-module-webos-dynaload.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/nodejs-module-webos/nodejs-module-webos-dynaload.bb
+
+[webos-initscripts]
+git clone https://github.com/openwebos/webos-initscripts.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/webos-initscripts/webos-initscripts.bb
+
+[cmake-modules-webos]
+git clone https://github.com/openwebos/cmake-modules-webos.git
+https://github.com/openwebos/meta-webos/blob/master/recipes-webos/cmake-modules-webos/cmake-modules-webos-native.bb
+
+[electron-quick-start]
+git clone https://github.com/electron/electron-quick-start.git
